@@ -1,0 +1,116 @@
+.main-img{
+    background-image: url(main-image.jpg);
+    
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: 70vh; 
+    width: 100%;
+    color: white;
+  
+
+    
+
+   
+}
+
+.container-fluid{
+    color: white;
+}
+.center{
+    padding:10px;
+    padding-left: 250px;
+       margin-left: 50px;
+       text-align: center;
+    }
+.logo{
+    padding-left: 50px;
+}
+
+.packages{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    padding-left: 20px;
+    color: white;
+  
+ 
+    
+   
+    
+}
+.packages-head{
+   
+   color: white;
+     text-align: center;
+     padding-top: 50px;
+
+}
+.card{
+   float: left;
+   margin: 25px;
+ 
+    
+}
+.about1{
+    background-image: url(bachelors.jpg);
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: 70vh; 
+    width: 100%;
+    color:white;
+
+}
+
+.Destination{
+ width: 100%;
+    height: 700px;
+    background-color: black;
+    padding-left: 20px;
+    color: white;
+}
+.Destination-head{
+    color: white;
+     text-align: center;
+     padding-top: 47px;
+
+}
+.form{
+      background-image: url(conatct-form.jpg);
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    height: 70vh; 
+    width: 100%;
+    color:white;
+    
+
+}
+form{
+    width: 50%;
+    background-color:transparent ;
+    border-radius: 50px;
+    margin-left: 400px;
+    
+
+ 
+
+}
+.contact-head{
+    color: white;
+     text-align: center;
+     padding-top: 30px;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+   
+}
+.footer p {
+    text-align: center;
+    padding-top: 30px;
+}
